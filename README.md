@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 # Test task - Typescript + React responsive formatting
 # Installation
 1) Download repository
